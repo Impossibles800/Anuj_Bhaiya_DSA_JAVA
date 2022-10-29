@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Graphs.iml" filepath="$PROJECT_DIR$/Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphs3/graphs3.iml" filepath="$PROJECT_DIR$/graphs3/graphs3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphs4/graphs4.iml" filepath="$PROJECT_DIR$/graphs4/graphs4.iml" />
+    </modules>
+  </component>
+</project>

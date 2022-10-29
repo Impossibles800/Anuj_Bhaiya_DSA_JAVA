@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AVL_Tree/AVL_Tree.iml" filepath="$PROJECT_DIR$/AVL_Tree/AVL_Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking.iml" filepath="$PROJECT_DIR$/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking_.iml" filepath="$PROJECT_DIR$/Backtracking_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree.iml" filepath="$PROJECT_DIR$/Binary_Search_Tree/Binary_Search_Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary_tree/Binary_tree.iml" filepath="$PROJECT_DIR$/Binary_tree/Binary_tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Disjoints Sets/Disjoints Sets.iml" filepath="$PROJECT_DIR$/Disjoints Sets/Disjoints Sets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Doubts/Doubts.iml" filepath="$PROJECT_DIR$/Doubts/Doubts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Doubts2/Doubts2.iml" filepath="$PROJECT_DIR$/Doubts2/Doubts2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Doubts3/Doubts3.iml" filepath="$PROJECT_DIR$/Doubts3/Doubts3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Doubts4/Doubts4.iml" filepath="$PROJECT_DIR$/Doubts4/Doubts4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic_Programing/Dynamic_Programing.iml" filepath="$PROJECT_DIR$/Dynamic_Programing/Dynamic_Programing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy Algorithum/Greedy Algorithum.iml" filepath="$PROJECT_DIR$/Greedy Algorithum/Greedy Algorithum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Priority_Queue/Priority_Queue.iml" filepath="$PROJECT_DIR$/Priority_Queue/Priority_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphs/graphs.iml" filepath="$PROJECT_DIR$/graphs/graphs.iml" />
+    </modules>
+  </component>
+</project>
